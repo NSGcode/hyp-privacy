@@ -20,7 +20,7 @@ In-app purchases are processed securely by Apple. We do not have access to your 
 We do not share any data with third parties.
 
 ## Contact
-For questions about this privacy policy, contact: [your email]
+For questions about this privacy policy, contact: support@nsgcode.com
 
 ## Changes
 We may update this policy. Changes will be posted here.
